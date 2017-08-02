@@ -1,0 +1,15 @@
+#animal-input {
+  margin-top: 10px;
+}
+
+#submitButton {
+  background-color: teal;
+  color: white;
+  margin-top: 10px;
+}
+
+button {
+  background-color: teal;
+  color: white;
+  margin: 5px;
+}
